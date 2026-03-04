@@ -4,6 +4,8 @@ Tài liệu về ngôn ngữ lập trình (syntax, typing, memory model, best pr
 
 ## Thư mục ngôn ngữ
 
+- [HTML](./html/)
+- [CSS](./css/)
 - [JavaScript](./javascript/)
 - [TypeScript](./typescript/)
 - [Python](./python/)
