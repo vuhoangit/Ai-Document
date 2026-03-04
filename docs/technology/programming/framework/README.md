@@ -15,6 +15,14 @@ Tài liệu về framework phát triển ứng dụng.
 - [Laravel](./laravel/)
 - [NestJS](./nestjs/)
 
+### Go Framework
+- [Gin](./gin/)
+- [Fiber](./fiber/)
+
+### Rust Framework
+- [Axum](./axum/)
+- [Actix Web](./actix-web/)
+
 ### CSS Framework
 - [Bootstrap](./bootstrap/)
 - [Tailwind CSS](./tailwind-css/)
