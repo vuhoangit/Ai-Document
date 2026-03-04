@@ -23,3 +23,7 @@ Popular language folders currently available:
 - `rust`
 - `swift`
 - `typescript`
+
+## Foundation concepts
+
+- [Programming stack components](./01-programming-stack-components.md)
