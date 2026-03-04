@@ -12,6 +12,12 @@ This documentation is organized by clear topic groups. Each group contains subfo
 docs/
 └── technology/
     ├── programming/
+    │   ├── language/
+    │   ├── engine-runtime/
+    │   ├── framework/
+    │   ├── library/
+    │   ├── tooling/
+    │   └── platform-infrastructure/
     ├── network/
     ├── data/
     │   └── retrieval-augmented-generation/

@@ -1,28 +1,15 @@
 # Programming
 
-Use this folder for software engineering knowledge such as:
+Use this folder for software engineering knowledge grouped by core stack components.
 
-- Language guides
-- Architecture patterns
-- Testing and quality practices
-- Build and deployment workflows
+## Main folders
 
-## Language folders
-
-Popular language folders currently available:
-
-- `cpp`
-- `csharp`
-- `go`
-- `java`
-- `javascript`
-- `kotlin`
-- `php`
-- `python`
-- `ruby`
-- `rust`
-- `swift`
-- `typescript`
+- [Language](./language/README.md)
+- [Engine and Runtime](./engine-runtime/README.md)
+- [Framework](./framework/README.md)
+- [Library](./library/README.md)
+- [Tooling](./tooling/README.md)
+- [Platform and Infrastructure](./platform-infrastructure/README.md)
 
 ## Foundation concepts
 
