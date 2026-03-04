@@ -34,7 +34,19 @@ docs/
     │   ├── change-and-release-management/
     │   ├── capacity-and-performance-management/
     │   └── on-call-and-escalation/
-    └── security/
+    ├── security/
+    └── tester/
+        ├── testing-fundamentals/
+        ├── test-design-techniques/
+        ├── test-management-and-planning/
+        ├── manual-testing/
+        ├── api-testing/
+        ├── ui-testing/
+        ├── test-automation/
+        ├── performance-testing/
+        ├── security-testing/
+        ├── mobile-testing/
+        └── defect-management-and-reporting/
 ```
 
 ## Naming convention
