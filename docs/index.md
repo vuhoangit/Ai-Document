@@ -1,67 +1,39 @@
-# Documentation Overview
+# Documentation Portal
 
-This documentation is organized by clear topic groups. Each group contains subfolders for focused knowledge areas.
+This portal follows an international documentation architecture so readers and AI systems can navigate the same source of truth.
 
-## Available topic groups
+## 1) Read by intent (Diátaxis)
 
-- [Technology](./technology/index.md)
-- [Knowledge map (for AI ingestion)](./knowledge-map.md)
+- **Tutorials**: learning-oriented, step-by-step materials.
+- **How-to guides**: task-oriented implementation instructions.
+- **Reference**: factual and structured technical specifications.
+- **Explanation**: concept-oriented background and trade-offs.
 
-## Directory map
+## 2) Core entry points
+
+- [Technology domains](./technology/index.md)
+- [Knowledge map for AI ingestion](./knowledge-map.md)
+- [Documentation standard](./governance/documentation-standard.md)
+- [Document template](./templates/document-template.md)
+
+## 3) Domain map
 
 ```text
-docs/
-└── technology/
-    ├── programming/
-    │   ├── language/
-    │   ├── engine-runtime/
-    │   ├── framework/
-    │   ├── library/
-    │   ├── tooling/
-    │   └── platform-infrastructure/
-    ├── network/
-    ├── data/
-    │   └── retrieval-augmented-generation/
-    ├── ai/
-    │   ├── machine-learning-fundamentals/
-    │   ├── deep-learning/
-    │   ├── natural-language-processing/
-    │   ├── large-language-models/
-    │   ├── prompt-engineering/
-    │   └── ai-agents/
-    ├── devops/
-    │   ├── ci-cd/
-    │   ├── containers-and-orchestration/
-    │   ├── infrastructure-as-code/
-    │   ├── observability-and-monitoring/
-    │   └── reliability-and-incident-response/
-    ├── operations/
-    │   ├── runbooks-and-sops/
-    │   ├── service-operations/
-    │   ├── change-and-release-management/
-    │   ├── capacity-and-performance-management/
-    │   └── on-call-and-escalation/
-    ├── systems/
-    │   ├── operating-system-fundamentals/
-    │   ├── computer-architecture/
-    │   ├── distributed-systems/
-    │   └── performance-tuning-and-troubleshooting/
-    ├── security/
-    └── tester/
-        ├── testing-fundamentals/
-        ├── test-design-techniques/
-        ├── test-management-and-planning/
-        ├── manual-testing/
-        ├── api-testing/
-        ├── ui-testing/
-        ├── test-automation/
-        ├── performance-testing/
-        ├── security-testing/
-        ├── mobile-testing/
-        └── defect-management-and-reporting/
+docs/technology/
+├── programming/
+├── network/
+├── data/
+├── ai/
+├── devops/
+├── operations/
+├── systems/
+├── security/
+└── tester/
 ```
 
-## Naming convention
+## 4) Recommended reading flow
 
-- Folder names are in English and use lowercase kebab-case.
-- Document names are in English and start with an ordered numeric prefix when sequence matters.
+1. Start with a domain overview (`README.md`).
+2. Continue with numbered guides (`01-`, `02-`, ...).
+3. Use references for exact definitions and implementation constraints.
+4. Revisit explanation docs for architecture decisions and trade-offs.
