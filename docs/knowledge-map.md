@@ -25,6 +25,7 @@ docs/
     ├── ai/
     ├── devops/
     ├── operations/
+    ├── systems/
     ├── security/
     └── tester/
 ```
@@ -108,6 +109,10 @@ docs/
 ### G. Systems
 
 - [Systems overview](./technology/systems/README.md)
+- [Operating system fundamentals](./technology/systems/operating-system-fundamentals/README.md)
+- [Computer architecture](./technology/systems/computer-architecture/README.md)
+- [Distributed systems](./technology/systems/distributed-systems/README.md)
+- [Performance tuning and troubleshooting](./technology/systems/performance-tuning-and-troubleshooting/README.md)
 
 ### H. Security
 

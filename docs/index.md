@@ -42,6 +42,10 @@ docs/
     │   ├── capacity-and-performance-management/
     │   └── on-call-and-escalation/
     ├── systems/
+    │   ├── operating-system-fundamentals/
+    │   ├── computer-architecture/
+    │   ├── distributed-systems/
+    │   └── performance-tuning-and-troubleshooting/
     ├── security/
     └── tester/
         ├── testing-fundamentals/
