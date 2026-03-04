@@ -105,11 +105,15 @@ docs/
 - [Capacity and performance management](./technology/operations/capacity-and-performance-management/README.md)
 - [On-call and escalation](./technology/operations/on-call-and-escalation/README.md)
 
-### G. Security
+### G. Systems
+
+- [Systems overview](./technology/systems/README.md)
+
+### H. Security
 
 - [Security overview](./technology/security/README.md)
 
-### H. Tester
+### I. Tester
 
 - [Tester overview](./technology/tester/README.md)
 
@@ -124,7 +128,7 @@ docs/
 
 Có thể gắn metadata khi ingest tài liệu:
 
-- `domain`: `programming | network | data | ai | devops | operations | security | tester`
+- `domain`: `programming | network | data | ai | devops | operations | systems | security | tester`
 - `subdomain`: ví dụ `rag`, `framework`, `engine-runtime`
 - `doc_type`: `overview | guide | architecture | operations | playbook`
 - `path`: đường dẫn file gốc trong `docs/`

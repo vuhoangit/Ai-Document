@@ -49,6 +49,7 @@ docs/
     ├── ai/
     ├── devops/
     ├── operations/
+    ├── systems/
     ├── security/
     └── tester/
 ```
