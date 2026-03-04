@@ -9,3 +9,4 @@ Technology documents are grouped into major topics:
 - [DevOps](./devops/README.md)
 - [Operations](./operations/README.md)
 - [Security](./security/README.md)
+- [Tester](./tester/README.md)
