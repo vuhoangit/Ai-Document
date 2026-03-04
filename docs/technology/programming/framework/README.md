@@ -8,6 +8,7 @@ Tài liệu về framework phát triển ứng dụng.
 - [React](./react/)
 - [Vue](./vue/)
 - [Angular](./angular/)
+- [Nuxt](./nuxt/)
 
 ### Backend
 - [Django](./django/)
