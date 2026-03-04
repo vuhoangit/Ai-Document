@@ -1,6 +1,6 @@
-# Technology Domain
+# Technology
 
-Technology documents are grouped into major subdomains:
+Technology documents are grouped into major topics:
 
 - [Programming](./programming/README.md)
 - [Network](./network/README.md)
