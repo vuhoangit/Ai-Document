@@ -15,6 +15,13 @@ docs/
     ├── network/
     ├── data/
     │   └── retrieval-augmented-generation/
+    ├── ai/
+    │   ├── machine-learning-fundamentals/
+    │   ├── deep-learning/
+    │   ├── natural-language-processing/
+    │   ├── large-language-models/
+    │   ├── prompt-engineering/
+    │   └── ai-agents/
     ├── devops/
     │   ├── ci-cd/
     │   ├── containers-and-orchestration/
