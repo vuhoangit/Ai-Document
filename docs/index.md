@@ -15,6 +15,12 @@ docs/
     ├── network/
     ├── data/
     │   └── retrieval-augmented-generation/
+    ├── devops/
+    │   ├── ci-cd/
+    │   ├── containers-and-orchestration/
+    │   ├── infrastructure-as-code/
+    │   ├── observability-and-monitoring/
+    │   └── reliability-and-incident-response/
     └── security/
 ```
 
